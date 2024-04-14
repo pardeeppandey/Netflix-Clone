@@ -1,0 +1,224 @@
+.netflex_main{
+    height:auto;
+    width:auto;
+    display: relative;
+    
+}
+.netflex_head {
+    height:700px;
+    width:auto;
+    
+}
+.select_1{
+    
+}
+.netflex_top{
+    height:20px;
+    width:100%;
+    display:flex;
+    margin-top: -680px;
+}
+.netflex_logo {
+    height: 1.5rem;
+    width: 5.5625rem;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;   
+    color: rgb(229, 9, 20);
+    font-size: 50px;
+    display:flex;   
+    margin-left: 60px;     
+}
+.netflex_top_middle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:55px;
+    color:white;
+    margin-top: 15%;
+    margin-left:14%;
+}
+button {
+    background-color: #f30909; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+input[type=text] {
+    
+    width: 300px;
+    padding: 10px 20px;
+    border: 1px solid white;
+    border-bottom: 3px solid darkgrey;
+    font-size: 15px;
+    background: transparent;
+}
+.netflex_middle1{
+    width:auto;
+    height:500px;
+    background-color: black;
+    position:relative;
+
+}
+.netflex_in_middle1{
+    position: absolute;
+    color:white; 
+    margin-top: 150px; 
+    font-size: 50px;
+    margin-left: 200px;
+}
+.netflex_in_middle1_part1{
+    height:50px;
+    width:400px;
+    position: absolute;
+    color:white; 
+    margin-top: 225px; 
+    margin-left: 200px;
+    font-size: 25px;
+}
+.netflex_middle2{
+    width:auto;
+    height:550px;
+    background-color: black;
+    position:relative;
+}
+.netflex_in_middle2{
+    width:450px;
+    position: absolute;
+    color:white; 
+    margin-top: 150px; 
+    font-size: 50px;
+    margin-left: 700px;
+}
+.netflex_in_middle2_part1{
+    height:50px;
+    width:400px;
+    position: absolute;
+    color:white; 
+    margin-top: 275px; 
+    margin-left: 700px;
+    font-size: 25px; 
+}
+.netflex_middle3{
+    width:auto;
+    height:500px;
+    background-color: black;
+    position:relative;  
+}
+.netflex_in_middle3{
+    width:450px;
+    position: absolute;
+    color:white; 
+    margin-top: 150px; 
+    font-size: 50px;
+    margin-left: 200px;
+}
+.netflex_in_middle3_part1{
+    height:50px;
+    width:400px;
+    position: absolute;
+    color:white; 
+    margin-top: 220px; 
+    margin-left: 200px;
+    font-size: 25px; 
+}
+.netflex_middle4{
+    width:auto;
+    height:500px;
+    background-color: black;
+    position:relative; 
+}
+.netflex_in_middle4{
+    width:450px;
+    position: absolute;
+    color:white; 
+    margin-top: 150px; 
+    font-size: 50px;
+    margin-left: 700px;
+}
+.netflex_in_middle4_part1{
+    height:50px;
+    width:400px;
+    position: absolute;
+    color:white; 
+    margin-top: 275px; 
+    margin-left: 700px;
+    font-size: 25px; 
+}
+.netflex_middle5{
+    width:auto;
+    height: 800px;
+    background-color: black;
+    position:relative; 
+}
+.netflex_middle5_1{
+    width: 600px;
+    position: absolute;
+    color:white; 
+    margin-top: 40px; 
+    font-size: 50px;
+    margin-left: 400px;
+}
+.netflex_middle5_2{
+    height:70px;
+    width:1000px;
+    background-color: rgb(73, 73, 73);
+    margin-top: 110px;
+    margin-left: 160px;
+    position:absolute
+}
+.netflex_middle5_3{
+    height:70px;
+    width:1000px;
+    background-color: rgb(73, 73, 73);
+    margin-top: 190px;
+    margin-left: 160px;
+    position:absolute
+
+}
+.netflex_middle5_4{
+    height:70px;
+    width:1000px;
+    background-color: rgb(73, 73, 73);
+    margin-top: 270px;
+    margin-left: 160px;
+    position:absolute
+}
+.netflex_middle5_5{
+    height:70px;
+    width:1000px;
+    background-color: rgb(73, 73, 73);
+    margin-top: 350px;
+    margin-left: 160px;
+    position:absolute
+}
+.netflex_middle5_6{
+    height:70px;
+    width:1000px;
+    background-color: rgb(73, 73, 73);
+    margin-top: 430px;
+    margin-left: 160px;
+    position:absolute
+}
+.netflex_middle5_7{
+    height:70px;
+    width:1000px;
+    background-color: rgb(73, 73, 73);
+    margin-top: 510px;
+    margin-left: 160px;
+    position:absolute
+}
+.netflex_middle5_8{
+    width:700px;
+    color:white;
+    font-size: 20px;
+    margin-top: 620px;
+    position:absolute;
+    margin-left: 350px;
+}
+.netflex_bottom{
+    width:auto;
+    height:400px;
+    background-color: black;
+    position:relative; 
+}
